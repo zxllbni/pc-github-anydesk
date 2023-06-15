@@ -1,4 +1,4 @@
-Title: Windows 10 RDP Setup Tutorial with GitHub and AnyDesk
+Title: Windows 10 Setup Tutorial with GitHub and AnyDesk
 
 [Introduction]
 Welcome back to our channel! In this tutorial, we will show you how to set up and run Windows 10 Remote Desktop Protocol (RDP) using GitHub and AnyDesk. Before we begin, make sure you have the following prerequisites:
@@ -17,7 +17,7 @@ Now, let's quickly go through the steps to complete the prerequisites together. 
 6. Finally, click on the "Commit changes" button to upload the workflow script to your repository.
 
 [Main Tutorial Steps]
-Great job completing the prerequisites! Now, let's move on to the main tutorial and deploy and run Windows 10 RDP.
+Great job completing the prerequisites! Now, let's move on to the main tutorial and deploy and run Windows 10.
 
 1. Go to the "Actions" tab in your GitHub repository.
 2. Under the "Workflows" section, you should see the system workflow that you uploaded. Click on it to open it.
