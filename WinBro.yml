@@ -1,0 +1,22 @@
+name: WinBro
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Built Connection by Jahid
+    runs-on: windows-latest
+    timeout-minutes: 9999
+    
+    steps:
+      - name: Download & Install
+        run: |
+          Invoke-WebRequest https://raw.githubusercontent.com/jahidrdpschool/pc-github-anydesk/main/DL.bat -OutFile DL.bat
+          cmd /c DL.bat
+
+      - name: Login Anydesk
+        run: cmd /c ST.bat
+
+      - name: Time Counting...
+        run: Start-Sleep -Seconds 21600
