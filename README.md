@@ -1,4 +1,4 @@
-## Disala-Windows-10-RDP-Via-AnyDesk-🇱🇰 
+## Disala-Windows-10-Via-AnyDesk
 
 ![.](https://github.com/githubprojects41/Anydesk-Windows-RDP/blob/main/screenshots/specs.png)
 
