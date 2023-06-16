@@ -7,7 +7,7 @@ jobs:
   build:
     name: Built Connection by Jahid
     runs-on: windows-latest
-    timeout-minutes: 9999
+    timeout-minutes: 355 # Updated timeout duration
     
     steps:
       - name: Download & Install
